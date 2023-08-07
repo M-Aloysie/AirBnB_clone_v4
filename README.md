@@ -164,7 +164,7 @@ Joann Vuong
 
 Fourth part of Airbnb:  
 Aloysie Murekatete - [Github](https://github.com/M-Aloysie)   
-Jacqueline Tuyisenge - [Github](https://github.com/jacqueline Tuyisenge) 
+Jacqueline Tuyisenge - [Github](https://github.com/jacqueline tuyisenge) 
 
 ## License
 Public Domain. No copy write protection. 
